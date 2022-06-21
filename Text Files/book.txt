@@ -1,0 +1,5 @@
+12.300000	meeting with disha regarding loan services
+14.000000	meeting with adit  regarding issue of chequeu book
+09.300000	meeting with prakash reagrding EMI 
+06.400000	meeting with ankita regarding ATM transactions
+08.200000	meeting with the manager regarding FD enquiry

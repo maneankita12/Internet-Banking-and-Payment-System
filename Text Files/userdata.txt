@@ -1,0 +1,5 @@
+122	DISHA	17	01	2001	20	111.000000	hubli	savings	2104.000000
+110	ANKITA	09	12	1994    30	76246.00000 	dharwrd	current	78426.000000
+409     adit    14      11      1998    35      6236.000000     bangalore savings 237667.0000
+1509    niya    09      13      2005    16      7846.00000      sirsi     current 987672.0000
+919     ish     05      23      1991    40      36637.00000     belgaum   savings 387468.00000
