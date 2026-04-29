@@ -1,6 +1,6 @@
 # Internet-Banking-and-Payment-System
 
-## 📌 Problem Definition
+## Problem Definition
 This project simulates an **Internet Banking System** that enables users to securely access their bank accounts and carry out financial transactions online. It enhances the normal banking experience as it is **quick, free, and allows multiple operations without visiting a bank or ATM**.  
 
 Key features:
@@ -12,7 +12,7 @@ Key features:
 
 ---
 
-## ⚙️ Functionalities
+## Functionalities
 
 1. **`new_acc()`** – Create a new account (Customer/Admin) using **File Handling**.  
 2. **`edit()`** – Edit existing account details (Customer/Admin).  
@@ -25,7 +25,7 @@ Key features:
 
 ---
 
-## 🛠️ Tools and Techniques
+## Tools and Techniques
 
 - **Data Structures & File Handling**
   - File data structure is used for storing and retrieving account details efficiently.  
@@ -41,7 +41,7 @@ Key features:
 
 ---
 
-## 🚀 Key Learnings & Takeaways
+## Key Learnings & Takeaways
 - Choosing the **right data structure and algorithm** is crucial for solving real-world problems efficiently.  
 - Ability to correlate **theory with practical applications** in banking systems.  
 - Understanding and comparing **time complexities** of algorithms to improve code performance.  
